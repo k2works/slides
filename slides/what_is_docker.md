@@ -99,6 +99,7 @@ layout: true
 
 ---
 # Pain Relievers
+
 <img src="./image/what_is_docker/docker-solution.png" width="740px">
 
 ---
