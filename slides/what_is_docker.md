@@ -5,7 +5,6 @@ class: center middle
 class: center middle
 # カキギカツユキ
 # [Twitter](https://twitter.com/k2works)
-# [FaceBook](https://www.facebook.com/kakimomokuri)
 
 ---
 # 構成
