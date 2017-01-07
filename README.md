@@ -26,6 +26,9 @@
 - [Dockerボリュームを使ったDBのバックアップ](http://k2works.github.io/slides/?docker_volume_backup.md)
     - Dockerのデータボリューム解説
 
+- [写経のススメ](http://k2works.github.io/slides/?getting_start_programing.md)
+    - My写経スタイル
+
 # 参照 #
 - [remark.js ことはじめ](http://k2works.github.io/slides/?remarkjs.md)
     - remark.js における markdown の書き方を簡単に解説
