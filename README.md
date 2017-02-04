@@ -25,9 +25,10 @@
     - Docker概要
 - [Dockerボリュームを使ったDBのバックアップ](http://k2works.github.io/slides/?docker_volume_backup.md)
     - Dockerのデータボリューム解説
-
 - [写経のススメ](http://k2works.github.io/slides/?getting_start_programing.md)
     - My写経スタイル
+- [プログラミング練習](http://k2works.github.io/slides/?coding_for_practice.md)
+    - プログラミング練習方法に関して
 
 # 参照 #
 - [remark.js ことはじめ](http://k2works.github.io/slides/?remarkjs.md)
