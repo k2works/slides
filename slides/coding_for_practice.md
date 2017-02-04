@@ -81,17 +81,25 @@ class: middle center
 ---
 ## やったこと
 + 写経する
-+ 思考をトレースする
 + 手を動かす
 + 頭を使う
++ 思考をトレースする
 + 繰り返す
 
 ---
 ## 写経する
 1. 目的を明確にして構成を決める
-1. アプリケーション環境構築
+1. アプリケーション環境
 1. アプリケーション開発
 1. アプリケーション配置
+
+---
+## 手を動かす
++ [Javaオリジナル版](https://github.com/k2works/etude-op10-no5)
+
+---
+## 頭を使う
++ [Ruby移植版](https://github.com/k2works/etude_op10_no6)
 
 ---
 ## 思考をトレースする
@@ -103,15 +111,9 @@ class: middle center
 + Step54 - Step62 Scoreのリファクタリング
 
 ---
-## 手を動かす
-+ [Javaオリジナル版](https://github.com/k2works/etude-op10-no5)
-
----
-## 頭を使う
-+ [Ruby移植版](https://github.com/k2works/etude_op10_no6)
-
----
 ## 繰り返す
++ 毎日始業1時間を使う
++ 最終的には1日10分ぐらいにする
 
 ---
 class: middle center
@@ -181,7 +183,8 @@ end
 
 ---
 class: middle
-> "最良の設計というものは、テストを最初に用意し、小さなステップを繰り返すことで展開されていくものなのだ"
+> 最良の設計というものは、テストを最初に用意し、小さなステップを繰り返すことで展開されていくものなのだ
+
 [Robert Cecil Martin](https://en.wikipedia.org/wiki/Robert_Cecil_Martin)
 ---
 class: middle center
