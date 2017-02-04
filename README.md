@@ -27,7 +27,7 @@
     - Dockerのデータボリューム解説
 - [写経のススメ](http://k2works.github.io/slides/?getting_start_programing.md)
     - My写経スタイル
-- [プログラミング練習](http://k2works.github.io/slides/?coding_for_practice.md)
+- [俺のプログラミングが下手なのはどう考えても練習をしていないのが悪い](http://k2works.github.io/slides/?coding_for_practice.md)
     - プログラミング練習方法に関して
 
 # 参照 #

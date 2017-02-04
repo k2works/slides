@@ -1,5 +1,5 @@
 class: center middle
-# プログラミング練習
+# 俺のプログラミングが下手なのはどう考えても練習をしていないのが悪い
 
 ---
 class: center middle
@@ -21,7 +21,7 @@ class: middle center
 
 ---
 class: middle
-## プログラミングが下手くそすぎてヤヴァイ
+## プログラミングが下手すぎてヤヴァイWw
 
 ---
 class: middle
