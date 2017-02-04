@@ -111,6 +111,16 @@ class: middle center
 + Step54 - Step62 Scoreのリファクタリング
 
 ---
+## 思考をトレースする
+### Step1 - Step52
+![Step1 - Step52](./image/coding_for_practice/class_diagram01.png)
+
+---
+## 思考をトレースする
+### Step53 - Step62
+![Step53 - Step62](./image/coding_for_practice/class_diagram02.png)
+
+---
 ## 繰り返す
 + 毎日始業1時間を使う
 + 最終的には1日10分ぐらいにする
