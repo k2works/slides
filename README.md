@@ -21,13 +21,13 @@
     open -a "Google Chrome" --args --allow-file-access-from-files $(pwd)/slides/sample.html
 
 ## スライド ##
-- [Dockerって何よ](http://k2works.github.io/slides/?what_is_docker.md)
+- [Dockerって何よ](http://k2works.github.io/slides/2016/?what_is_docker.md)
     - Docker概要
-- [Dockerボリュームを使ったDBのバックアップ](http://k2works.github.io/slides/?docker_volume_backup.md)
+- [Dockerボリュームを使ったDBのバックアップ](http://k2works.github.io/slides/2016/?docker_volume_backup.md)
     - Dockerのデータボリューム解説
-- [写経のススメ](http://k2works.github.io/slides/?getting_start_programing.md)
+- [写経のススメ](http://k2works.github.io/slides/2017/01/?getting_start_programing.md)
     - My写経スタイル
-- [俺のプログラミングが下手なのはどう考えても練習をしていないのが悪い](http://k2works.github.io/slides/?coding_for_practice.md)
+- [俺のプログラミングが下手なのはどう考えても練習をしていないのが悪い](http://k2works.github.io/slides/2017/2/?coding_for_practice.md)
     - プログラミング練習方法に関して
 
 # 参照 #
