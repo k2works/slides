@@ -145,6 +145,10 @@ class: middle
 + デプロイ
 
 ---
+class: middle
+![](./image/coding_for_environment/build_deploy.png)
+
+---
 class: middle center
 # 実践
 
