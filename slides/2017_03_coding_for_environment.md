@@ -37,12 +37,10 @@ class: middle
 + その他いろいろ
 
 ---
-class: middle
 ## jQueryの勉強を始めたらなんかjQueryが終わりつつあるとか・・・
 [You Don't Need jQuery](http://qiita.com/tatesuke/items/b9548dd484b01b139b74)
 
 ---
-class: middle
 ## タスクランナーはGruntからGulpなのねと思ってたら・・・
 [Why I Left Gulp and Grunt for npm Scripts](http://qiita.com/chuck0523/items/dafdbd19c12efd40e2de)
 
@@ -70,7 +68,8 @@ class: middle
 
 [Robert Cecil Martin](https://en.wikipedia.org/wiki/Robert_Cecil_Martin)
 ---
-class: middle
+## Build Requires More Than One Step
+
 ```bash
 git clone https://github.com/k2works/etude_op10_no9.git etude-op10-no9
 cd /etude-op10-no9
@@ -82,11 +81,52 @@ npm run deploy
 ```
 
 ---
-class: middle
+## Tests Require More Than One Step
+
+```bash
+$ npm run test
+
+> etude-op10-no9@1.0.5 test /Users/k2works/Projects/k2works/etude_op10_no9
+> mocha
+
+
+
+  Game
+    .score
+      when two throws
+        ✓ is scored
+      when spare
+        ✓ is scored
+        ✓ is scored
+        ✓ is scored
+      when strike
+        ✓ is scored
+      when perfect game
+        ✓ is scored
+      when 10th frame
+        ✓ is scored
+      when playing one game
+        ✓ is scored
+      when heart break game
+        ✓ is scored
+    .scoreForFrame
+      when four throws
+        ✓ is scored by frame
+      when spare
+        ✓ is scored by frame
+        ✓ is scored by frame
+      when strike
+        ✓ is scored by frame
+
+
+  13 passing (18ms)
+```
+---
 ## 通常攻撃が全体攻撃で二回攻撃のプログラミング環境
++ 再利用可能な環境
++ プラットフォームに依存しない環境
 
 ---
-class: middle
 ## 通常攻撃が全体攻撃
 + 開発
   + テストコーディング
@@ -99,7 +139,6 @@ class: middle
 [Robert Cecil Martin](https://en.wikipedia.org/wiki/Robert_Cecil_Martin)
 
 ---
-class: middle
 ## 二回攻撃
 + ビルド
 + デプロイ
