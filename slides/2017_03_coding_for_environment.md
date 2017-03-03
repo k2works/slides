@@ -30,22 +30,34 @@ class: middle
 ## 主にフロントエンド界隈・・・
 
 ---
+## すごーいフロントエンド界隈のトレンド
 + CSSコーディング
 + JavaScriptプログラミング
 + タスクランナー・ビルドツール
 + その他いろいろ
 
 ---
+class: middle
 ## jQueryの勉強を始めたらなんかjQueryが終わりつつあるとか・・・
 [You Don't Need jQuery](http://qiita.com/tatesuke/items/b9548dd484b01b139b74)
 
 ---
+class: middle
 ## タスクランナーはGruntからGulpなのねと思ってたら・・・
 [Why I Left Gulp and Grunt for npm Scripts](http://qiita.com/chuck0523/items/dafdbd19c12efd40e2de)
 
 ---
 class: middle
-## 悲しいけどこれがフロントエンド界隈なのね・・・
+## たのしー・・・・
+
+---
+class: middle
+## くない
+
+---
+class: middle
+![](http://3.bp.blogspot.com/-3IkExR-iCAo/VcMlN3R7V0I/AAAAAAAAwXg/10JXiaXCeDs/s800/figure_zasetsu.png)
+
 
 ---
 class: middle center
@@ -88,26 +100,16 @@ $ npm run test
 > etude-op10-no9@1.0.5 test /Users/k2works/Projects/k2works/etude_op10_no9
 > mocha
 
-
-
   Game
     .score
       when two throws
         ✓ is scored
       when spare
         ✓ is scored
-        ✓ is scored
-        ✓ is scored
-      when strike
-        ✓ is scored
-      when perfect game
-        ✓ is scored
-      when 10th frame
-        ✓ is scored
-      when playing one game
-        ✓ is scored
-      when heart break game
-        ✓ is scored
+        .
+        .
+        .
+        .
     .scoreForFrame
       when four throws
         ✓ is scored by frame
