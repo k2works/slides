@@ -29,6 +29,8 @@
     - My写経スタイル
 - [俺のプログラミングが下手なのはどう考えても練習をしていないのが悪い](http://k2works.github.io/slides/2017/2/?coding_for_practice.md)
     - プログラミング練習方法に関して
+- [通常攻撃が全体攻撃で二回攻撃のプログラミング環境はお好きですか？](http://k2works.github.io/slides/2017/3/?coding_for_environment.md)
+    - プログラミング環境に関して    
 
 # 参照 #
 - [remark.js ことはじめ](http://k2works.github.io/slides/?remarkjs.md)
