@@ -30,7 +30,6 @@ class: middle
 ## 主にフロントエンド界隈・・・
 
 ---
-class: middle
 + CSSコーディング
 + JavaScriptプログラミング
 + タスクランナー・ビルドツール
